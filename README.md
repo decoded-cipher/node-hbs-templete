@@ -5,7 +5,6 @@ A Monolithic Architecture based Node.js + HandleBars Project Templete.
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [express](https://www.npmjs.com/package/express)
 - [express-handlebars](https://www.npmjs.com/package/express-handlebars)
-- [http-errors](https://www.npmjs.com/package/http-errors)
 
 ## Dev Dependencies
 - [nodemon](https://www.npmjs.com/package/nodemon)

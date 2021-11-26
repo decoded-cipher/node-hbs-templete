@@ -2,8 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 router.get('/', (req, res) => {
-
-    var sample = 'Basic Node.js + HandleBars Templete'
+    var sample = 'Node.js + HBS Template'
     res.render('home', { sample })
 });
 
